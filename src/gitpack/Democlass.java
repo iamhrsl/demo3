@@ -6,6 +6,7 @@ public class Democlass {
 		
 		System.out.println("bdshgbdja");
 
+		System.out.println("defarfae");
 	}
 
 }
